@@ -1,0 +1,16 @@
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\bin\Debug\glazki_ismagilov.exe.config
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\bin\Debug\glazki_ismagilov.exe
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\bin\Debug\glazki_ismagilov.pdb
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov_MarkupCompile.cache
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov_MarkupCompile.lref
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.g.resources
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.Properties.Resources.resources
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.exe
+D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.pdb
