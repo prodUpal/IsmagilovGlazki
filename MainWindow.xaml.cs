@@ -23,6 +23,8 @@ namespace glazki_ismagilov
         public MainWindow()
         {
             InitializeComponent();
+            MainFrame.Navigate(new AgentPage());
+            Manager.MainFrame = MainFrame;
         }
     }
 }

@@ -14,3 +14,29 @@ D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_i
 D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.csproj.CoreCompileInputs.cache
 D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.exe
 D:\3 курс\ИСП-3221\Исмагилов\glazki_ismagilov\obj\Debug\glazki_ismagilov.pdb
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\glazki_ismagilov.exe.config
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\glazki_ismagilov.exe
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\glazki_ismagilov.pdb
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\EntityFramework.dll
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\EntityFramework.xml
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.csproj.AssemblyReference.cache
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\AddEditPage.g.cs
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\AgentPage.g.cs
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\MainWindow.g.cs
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\App.g.cs
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov_Content.g.cs
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov_MarkupCompile.cache
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov_MarkupCompile.lref
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\AddEditPage.baml
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\AgentPage.baml
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\MainWindow.baml
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.g.resources
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.Properties.Resources.resources
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.csproj.GenerateResource.cache
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.csproj.CoreCompileInputs.cache
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.csproj.CopyComplete
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.exe
+C:\Users\prod_upal\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.pdb
