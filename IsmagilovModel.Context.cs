@@ -17,9 +17,13 @@ namespace glazki_ismagilov
     {
 
         private static Glazki_IsmagilovEntities _context;
+
         public static Glazki_IsmagilovEntities GetContext()
         {
-            if (_context == null) _context = new Glazki_IsmagilovEntities();
+            if(_context == null)
+            {
+                _context = new Glazki_IsmagilovEntities();
+            }
             return _context;
         }
         public Glazki_IsmagilovEntities()

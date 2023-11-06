@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Debug\
+C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Release\
 glazki_ismagilov
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\УАТ\Source\Repos\IsmagilovGlazki\App.xaml
 3547723036
 2-349108465
@@ -16,5 +16,5 @@ C:\Users\УАТ\Source\Repos\IsmagilovGlazki\App.xaml
 191220145024
 AddEditPage.xaml;AgentPage.xaml;MainWindow.xaml;
 
-False
+True
 
