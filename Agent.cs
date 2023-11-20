@@ -11,7 +11,8 @@ namespace glazki_ismagilov
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.Linq;
+
     public partial class Agent
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -43,5 +44,19 @@ namespace glazki_ismagilov
         public virtual ICollection<Shop> Shop { get; set; }
 
         public string AgentTypeString { get { return AgentType.Title; } }
+
+
+        public int ProductCount => GetAllProducts();
+        public int GetAllProducts()
+        {
+            var count = 0;
+            var context = Glazki_IsmagilovEntities.GetContext().ProductSale.Where(p => p.AgentID == ID).ToList();
+            foreach (var productSale in context)
+            {
+                count += productSale.ProductCount;
+            }
+
+            return count;
+        }
     }
 }

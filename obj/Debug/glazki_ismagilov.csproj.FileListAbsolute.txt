@@ -67,3 +67,31 @@ C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.exe
 C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.pdb
 C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Debug\glazki_ismagilov.csproj.AssemblyReference.cache
 C:\Users\УАТ\Source\Repos\IsmagilovGlazki\obj\Debug\App.baml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\glazki_ismagilov.exe.config
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\glazki_ismagilov.exe
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\glazki_ismagilov.pdb
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\AgentPage.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov_Content.g.cs
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov_MarkupCompile.cache
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov_MarkupCompile.lref
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\App.baml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\AgentPage.baml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.g.resources
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.Properties.Resources.resources
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.csproj.CopyComplete
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.exe
+D:\3 курс\ИСП-3221\Исмагилов\Новая папка\obj\Debug\glazki_ismagilov.pdb

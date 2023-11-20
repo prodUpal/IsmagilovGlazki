@@ -12,7 +12,8 @@ namespace glazki_ismagilov
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    
+    using System.Security.Permissions;
+
     public partial class Glazki_IsmagilovEntities : DbContext
     {
 
@@ -20,7 +21,7 @@ namespace glazki_ismagilov
 
         public static Glazki_IsmagilovEntities GetContext()
         {
-            if(_context == null)
+            if (_context == null)
             {
                 _context = new Glazki_IsmagilovEntities();
             }
